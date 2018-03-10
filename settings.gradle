@@ -1,0 +1,3 @@
+rootProject.name = 'misc-training-tasks'
+include 'forkjoin-01'
+
